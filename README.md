@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan-Banerjee
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning NOSQL
+- 🌱 I’m currently learning Android progeamming through Java with Firebase.
 - 📫 How to reach me rohan.say7@gmail.com
 
 <!---
