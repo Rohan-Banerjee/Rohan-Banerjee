@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohan-Banerjee
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Android progeamming through Java with Firebase.
-- 📫 How to reach me rohan.say7@gmail.com
+- 📫 How to reach me rohan.say7@gmail.com / https://www.linkedin.com/in/iamrohanbanerjee/
 
 - Future goals to learn React and Flutter.
 
